@@ -24,16 +24,26 @@ Phase 1
 
 Phase 2
 [ ] The monsters spawn in at random rates until the first wave reaches the max capacity
+
 [ ] The player can interact with the monsters by attacking which makes them vanish when collided with a weapon
+
 [ ] Once all enemies are dead the next wave begins after 5 seconds
+
 [ ] The monsters take away one hit point from the player when running into the player
+
 [ ] If the player loses all HP the game ends
 
 Phase 3
 [ ] Different monsters are made (ranged, melee)
+
 [ ] Boss monsters are made 
+
 [ ] Different weapons are made that bosses drop
+
 [ ] Health Potions drop from bosses
+
 [ ] The waves max capacity scale larger exponenctially each wave
+
 [ ] Game sprites are made
+
 [ ] Random arena environment generation
