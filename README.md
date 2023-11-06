@@ -13,9 +13,13 @@ to add random generation to the environments such as random obstacles.
 
 Phase 1
 [ ] The Knight exists in the world as a placeholder emoji
+
 [ ] The Knight can move in all directions (wasd: up, left, down, right)
+
 [ ] The player can press a key (probably space) to make a sword appear and disappear in front of them (attack)
+
 [ ] The boundaries of the screen prevent the knight from leaving
+
 [ ] The player has a healthbar of 5 hearts
 
 Phase 2
