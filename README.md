@@ -14,18 +14,18 @@ of this game, I would make sprites for the characters, but I am not sure if that
 to add random generation to the environments such as random obstacles.
 
 Phase 1
-[ ] The Knight exists in the world as a placeholder emoji
+[X] The Knight exists in the world as a placeholder emoji
 
-[ ] The Knight can move in all directions (wasd: up, left, down, right)
+[X] The Knight can move in all directions (wasd: up, left, down, right)
 
 [ ] The player can press a key (probably space) to make a sword appear and disappear in front of them (attack)
 
-[ ] The boundaries of the screen prevent the knight from leaving
+[X] The boundaries of the screen prevent the knight from leaving
 
-[ ] The player has a healthbar of 5 hearts
+[X] The monsters spawn in at random rates until the first wave reaches the max capacity
 
 Phase 2
-[ ] The monsters spawn in at random rates until the first wave reaches the max capacity
+[ ] The player has a healthbar of 5 hearts
 
 [ ] The player can interact with the monsters by attacking which makes them vanish when collided with a weapon
 
