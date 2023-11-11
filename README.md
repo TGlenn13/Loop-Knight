@@ -18,14 +18,14 @@ Phase 1
 
 [X] The Knight can move in all directions (wasd: up, left, down, right)
 
-[ ] The player can press a key (probably space) to make a sword appear and disappear in front of them (attack)
+[X] The player has a healthbar of 5 hearts
 
 [X] The boundaries of the screen prevent the knight from leaving
 
 [X] The monsters spawn in at random rates until the first wave reaches the max capacity
 
 Phase 2
-[ ] The player has a healthbar of 5 hearts
+[ ] The player can press a key (probably space) to make a sword appear and disappear in front of them (attack)
 
 [ ] The player can interact with the monsters by attacking which makes them vanish when collided with a weapon
 
