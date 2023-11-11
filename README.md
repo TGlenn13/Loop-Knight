@@ -3,6 +3,8 @@ CISC108 Final Project
 Thomas Glenn
 tglenn@udel.edu
 
+Phase 1: https://youtu.be/zVnQ13u5Ge4
+
 Loop Knight is a game  in which the player controls a knight (from a top down view) who at first wields a basic sword.
 The player has to fend off waves of increasingly more powerful monsters. The idea of scale comes
 into play with the waves of monsters scaling in difficutly. Killing "Boss" enemy has the chance to 
