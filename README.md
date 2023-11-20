@@ -27,17 +27,19 @@ Phase 1
 [X] The monsters spawn in at random rates until the first wave reaches the max capacity
 
 Phase 2
-[ ] The player can press a key (probably space) to make a sword appear and disappear in front of them (attack)
+[X] The player can press a key (probably space) to make a sword appear and disappear in front of them (attack)
 
-[ ] The player can interact with the monsters by attacking which makes them vanish when collided with a weapon
+[X] The player can interact with the monsters by attacking which makes them vanish when collided with a weapon
 
-[ ] Once all enemies are dead the next wave begins after 5 seconds
+[X} Running into a monster also kills the monster
 
-[ ] The monsters take away one hit point from the player when running into the player
+[X] The monsters take away one hit point from the player when running into the player
 
-[ ] If the player loses all HP the game ends
+[X] If the player loses all HP the game ends
 
 Phase 3
+[ ] Once all enemies are dead the next wave begins after 5 seconds
+
 [ ] Different monsters are made (ranged, melee)
 
 [ ] Boss monsters are made 
