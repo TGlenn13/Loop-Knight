@@ -16,40 +16,40 @@ of this game, I would make sprites for the characters, but I am not sure if that
 to add random generation to the environments such as random obstacles.
 
 Phase 1
-[X] The Knight exists in the world as a placeholder emoji
+- [X] The Knight exists in the world as a placeholder emoji
 
-[X] The Knight can move in all directions (wasd: up, left, down, right)
+- [X] The Knight can move in all directions (wasd: up, left, down, right)
 
-[X] The player has a healthbar of 5 hearts
+- [X] The player has a healthbar of 5 hearts
 
-[X] The boundaries of the screen prevent the knight from leaving
+- [X] The boundaries of the screen prevent the knight from leaving
 
-[X] The monsters spawn in at random rates until the first wave reaches the max capacity
+- [X] The monsters spawn in at random rates until the first wave reaches the max capacity
 
 Phase 2
-[X] The player can press a key (probably space) to make a sword appear and disappear in front of them (attack)
+- [X] The player can press a key (probably space) to make a sword appear and disappear in front of them (attack)
 
-[X] The player can interact with the monsters by attacking which makes them vanish when collided with a weapon
+- [X] The player can interact with the monsters by attacking which makes them vanish when collided with a weapon
 
-[X} Running into a monster also kills the monster
+- [X] Running into a monster also kills the monster
 
-[X] The monsters take away one hit point from the player when running into the player
+- [X] The monsters take away one hit point from the player when running into the player
 
-[X] If the player loses all HP the game ends
+- [X] If the player loses all HP the game ends
 
 Phase 3
-[ ] Once all enemies are dead the next wave begins after 5 seconds
+- [ ] Once all enemies are dead the next wave begins after 5 seconds
 
-[ ] Different monsters are made (ranged, melee)
+- [ ] Different monsters are made (ranged, melee)
 
-[ ] Boss monsters are made 
+- [ ] Boss monsters are made 
 
-[ ] Different weapons are made that bosses drop
+- [ ] Different weapons are made that bosses drop
 
-[ ] Health Potions drop from bosses
+- [ ] Health Potions drop from bosses
 
-[ ] The waves max capacity scale larger exponenctially each wave
+- [ ] The waves max capacity scale larger exponenctially each wave
 
-[ ] Game sprites are made
+- [ ] Game sprites are made
 
-[ ] Random arena environment generation
+- [ ] Random arena environment generation
