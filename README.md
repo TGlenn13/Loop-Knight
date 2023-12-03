@@ -40,18 +40,14 @@ Phase 2
 - [X] If the player loses all HP the game ends
 
 Phase 3
-- [ ] Once all enemies are dead the next wave begins after 5 seconds
+- [X] Boss monsters are made 
 
-- [ ] Different monsters are made (ranged, melee)
+- [X] The monsters do not stop spawning in
 
-- [ ] Boss monsters are made 
+- [X] Added background for the environment
 
-- [ ] Different weapons are made that bosses drop
+- [X] Monsters now move towards the top of the screen
 
-- [ ] Health Potions drop from bosses
+- [X] Monsters will spawn back at the bottom if they reach the top of the screen
 
-- [ ] The waves max capacity scale larger exponenctially each wave
-
-- [ ] Game sprites are made
-
-- [ ] Random arena environment generation
+- [X] Added game over screen
